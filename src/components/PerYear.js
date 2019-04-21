@@ -2,18 +2,14 @@ import React, { Component } from 'react'
 import Typography from '@material-ui/core/Typography'
 import withStyles from '@material-ui/core/styles/withStyles'
 
-const styles = {
-  child: {
-    flexGrow: 1,
-  },
-}
+const styles = {}
 
 class PerYear extends Component {
 
 
   render() {
 
-    const { classes, data } = this.props
+    const { data } = this.props
 
     const perYear = {}
 

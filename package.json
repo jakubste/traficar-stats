@@ -1,11 +1,13 @@
 {
   "name": "traficar-stats",
+  "homepage": "https://jakubste.github.io/traficar-stats",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
     "@material-ui/styles": "^3.0.0-alpha.10",
+    "gh-pages": "^2.0.1",
     "highcharts": "^7.1.1",
     "highcharts-react-official": "^2.1.3",
     "react": "^16.8.6",
@@ -13,6 +15,8 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
