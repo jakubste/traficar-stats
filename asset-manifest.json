@@ -1,13 +1,13 @@
 {
-  "main.css": "/traficar/static/css/main.93bfdb77.chunk.css",
-  "main.js": "/traficar/static/js/main.020c3042.chunk.js",
-  "main.js.map": "/traficar/static/js/main.020c3042.chunk.js.map",
-  "runtime~main.js": "/traficar/static/js/runtime~main.3c896c44.js",
-  "runtime~main.js.map": "/traficar/static/js/runtime~main.3c896c44.js.map",
-  "static/js/2.2ca30a49.chunk.js": "/traficar/static/js/2.2ca30a49.chunk.js",
-  "static/js/2.2ca30a49.chunk.js.map": "/traficar/static/js/2.2ca30a49.chunk.js.map",
-  "index.html": "/traficar/index.html",
-  "precache-manifest.325e37135790443697e5974a04915f07.js": "/traficar/precache-manifest.325e37135790443697e5974a04915f07.js",
-  "service-worker.js": "/traficar/service-worker.js",
-  "static/css/main.93bfdb77.chunk.css.map": "/traficar/static/css/main.93bfdb77.chunk.css.map"
+  "main.css": "/traficar-stats/static/css/main.93bfdb77.chunk.css",
+  "main.js": "/traficar-stats/static/js/main.83e79875.chunk.js",
+  "main.js.map": "/traficar-stats/static/js/main.83e79875.chunk.js.map",
+  "runtime~main.js": "/traficar-stats/static/js/runtime~main.bcce79bb.js",
+  "runtime~main.js.map": "/traficar-stats/static/js/runtime~main.bcce79bb.js.map",
+  "static/js/2.0a6f13a8.chunk.js": "/traficar-stats/static/js/2.0a6f13a8.chunk.js",
+  "static/js/2.0a6f13a8.chunk.js.map": "/traficar-stats/static/js/2.0a6f13a8.chunk.js.map",
+  "index.html": "/traficar-stats/index.html",
+  "precache-manifest.72c81abab107a12140b535d7f0637d39.js": "/traficar-stats/precache-manifest.72c81abab107a12140b535d7f0637d39.js",
+  "service-worker.js": "/traficar-stats/service-worker.js",
+  "static/css/main.93bfdb77.chunk.css.map": "/traficar-stats/static/css/main.93bfdb77.chunk.css.map"
 }
